@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cszcms>
+	<plugin>
+		<!-- Plugin config filename (No blank space) -->
+		<filename>article</filename>
+		<!-- Plugin Description -->
+		<desc>Aricle plugin for make blog</desc>
+		<!-- Lasted Version -->
+		<version>1.0.6</version>
+	</plugin>
+	<plugin>
+		<!-- Plugin config filename (No blank space) -->
+		<filename>gallery</filename>
+		<!-- Plugin Description -->
+		<desc>Gallery plugin</desc>
+		<!-- Lasted Version -->
+		<version>1.0.6</version>
+	</plugin>
+	<plugin>
+		<!-- Plugin config filename (No blank space) -->
+		<filename>contactsdb</filename>
+		<!-- Plugin Description -->
+		<desc>Contact Database System and Newsletter System</desc>
+		<!-- Lasted Version -->
+		<version>1.0.5</version>
+	</plugin>
+	<plugin>
+		<!-- Plugin config filename (No blank space) -->
+		<filename>shop</filename>
+		<!-- Plugin Description -->
+		<desc>Shopping system with cart</desc>
+		<!-- Lasted Version -->
+		<version>1.1.0</version>
+	</plugin>
+</cszcms>
